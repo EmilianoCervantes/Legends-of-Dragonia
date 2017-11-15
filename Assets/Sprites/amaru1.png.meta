@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: f8514933fd56144648bebc6b0caa8e6d
+timeCreated: 1458338112
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amaru1_0
+    21300002: amaru1_1
+    21300004: amaru1_2
+    21300006: amaru1_3
+    21300008: amaru1_4
+    21300010: amaru1_5
+    21300012: amaru1_6
+    21300014: amaru1_7
+    21300016: amaru1_8
+    21300018: amaru1_9
+    21300020: amaru1_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: amaru1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 7
+        width: 221
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 221
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 59
+        width: 219
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 70
+        width: 222
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 39
+        width: 224
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_6
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 30
+        width: 194
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 22
+        width: 178
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_8
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 22
+        width: 169
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_9
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 18
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amaru1_10
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 10
+        width: 115
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
